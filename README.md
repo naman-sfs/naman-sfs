@@ -23,6 +23,6 @@
 - 🌱 I’m currently learning whatever I find interesting...
 - 💞️ I’m looking to collaborate on GenAI 
 - 📫 How to reach me 'Please Don't 😄' 
-- ⚡ Fun fact: Part-time coder, full time coffee lover
+- ⚡ Fun fact: I code so that I can drink coffee, I drink coffee so that I can code.
 
 
